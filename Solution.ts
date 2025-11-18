@@ -8,8 +8,7 @@ let formatValue = (Value : (string | number | boolean)): string | number | boole
         return !Value ;
     }
 
-    return Value;
-     
+    return Value; 
 }
  
 
